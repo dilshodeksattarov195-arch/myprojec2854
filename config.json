@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsarse",
+        "uuid": 26139786,
+        "checksum": "rc5pcc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
